@@ -1,0 +1,1 @@
+Mimics Amazon.com's ui
