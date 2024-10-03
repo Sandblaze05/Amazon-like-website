@@ -1,1 +1,1 @@
-A frontend project made in HTML and CSS mostly to create a site similar to Amazon.in .
+•	A frontend project made using HTML, CSS, and JavaScript to mimic Amazon e-commerce website.
